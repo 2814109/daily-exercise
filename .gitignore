@@ -1,0 +1,16 @@
+node_modules
+
+/server/index.js
+/public/build
+preferences.arc
+sam.json
+sam.yaml
+.env
+.yarn
+
+ remix.init/node_modules
+ 
+/cypress/screenshots
+/cypress/videos
+
+/app/styles/tailwind.css
